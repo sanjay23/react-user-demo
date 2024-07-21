@@ -1,6 +1,6 @@
-======= React App with simple user listing with search ============
+### React App with simple user listing with search
 
-===== Descripation ==========
+### Descripation
 
 React demo of user listing with pagination also include global search using tailwind css.
 
